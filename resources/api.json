@@ -3,42 +3,42 @@
 		"productId": 1,
 		"id": 1,
 		"title": "Bambu MM",
-		"imgUrl": "https://live.staticflickr.com/65535/53019698765_3de43b1d86_6k.jpg"
+		"imgUrl": "https://raw.githubusercontent.com/MauroAgnoli/todaJovemMistica/main/resources/bambuMM.jpg"
 	},
     {
 		"productId": 2,
 		"id": 2,
 		"title": "Baunilha Gold",
-		"imgUrl": "https://photos.google.com/share/AF1QipMVvy9Li-q3wXhT2Ua31RdKSTlF0IhQqLlwJsP3oXxrpvZygWHVGlDVZIw3Fs2qGg/photo/AF1QipOGTblMf61OqBtE2Fuas4dOXQMJVyBK6XwNGkZd?key=VnB4M0JIRGZaVGZnTjVKdEIzMHB5azNSMktncUpn"
+		"imgUrl": "https://github.com/MauroAgnoli/todaJovemMistica/blob/main/resources/baunilhaGold.jpg?raw=true"
 	},
     {
 		"productId": 3,
 		"id": 3,
 		"title": "Blue Ocean",
-		"imgUrl": "https://photos.google.com/share/AF1QipMVvy9Li-q3wXhT2Ua31RdKSTlF0IhQqLlwJsP3oXxrpvZygWHVGlDVZIw3Fs2qGg/photo/AF1QipM-L4DgVJzq26gOkGPaaGV7d_x66hQ5A0dYsLqm?key=VnB4M0JIRGZaVGZnTjVKdEIzMHB5azNSMktncUpn"
+		"imgUrl": "https://github.com/MauroAgnoli/todaJovemMistica/blob/main/resources/blueOcean.jpg?raw=true"
 	},
     {
 		"productId": 4,
 		"id": 4,
 		"title": "Cereja e Avelã",
-		"imgUrl": "https://photos.google.com/share/AF1QipMVvy9Li-q3wXhT2Ua31RdKSTlF0IhQqLlwJsP3oXxrpvZygWHVGlDVZIw3Fs2qGg/photo/AF1QipNS39OA6CStWC8CrpVAkDa7Zs7QBJE4vBTZqNNo?key=VnB4M0JIRGZaVGZnTjVKdEIzMHB5azNSMktncUpn"
+		"imgUrl": "https://github.com/MauroAgnoli/todaJovemMistica/blob/main/resources/cerejaAvela.jpg?raw=true"
 	},
     {
 		"productId": 5,
 		"id": 5,
 		"title": "Chá Branco",
-		"imgUrl": "https://photos.google.com/share/AF1QipMVvy9Li-q3wXhT2Ua31RdKSTlF0IhQqLlwJsP3oXxrpvZygWHVGlDVZIw3Fs2qGg/photo/AF1QipMRTr5W55dYwBA8l7ITeWbtnXRP_pFKiuAdpDoF?key=VnB4M0JIRGZaVGZnTjVKdEIzMHB5azNSMktncUpn"
+		"imgUrl": "https://github.com/MauroAgnoli/todaJovemMistica/blob/main/resources/chaBranco.jpg?raw=true"
 	},
     {
 		"productId": 6,
 		"id": 6,
 		"title": "Lavanda Francesa",
-		"imgUrl": "https://photos.google.com/share/AF1QipMVvy9Li-q3wXhT2Ua31RdKSTlF0IhQqLlwJsP3oXxrpvZygWHVGlDVZIw3Fs2qGg/photo/AF1QipOTgYwyyyd1LsDw2GPHIjxfcrdCmw0bbGGiwdgP?key=VnB4M0JIRGZaVGZnTjVKdEIzMHB5azNSMktncUpn"
+		"imgUrl": "https://github.com/MauroAgnoli/todaJovemMistica/blob/main/resources/lavandaFrancesa.jpg?raw=true"
 	},
     {
 		"productId": 7,
 		"id": 7,
 		"title": "Pitanga Brasil",
-		"imgUrl": "https://photos.google.com/share/AF1QipMVvy9Li-q3wXhT2Ua31RdKSTlF0IhQqLlwJsP3oXxrpvZygWHVGlDVZIw3Fs2qGg/photo/AF1QipNiu7WIgTXKAL7Ad6P4egiO3evQXA9wxdkyKQ21?key=VnB4M0JIRGZaVGZnTjVKdEIzMHB5azNSMktncUpn"
+		"imgUrl": "https://github.com/MauroAgnoli/todaJovemMistica/blob/main/resources/pitangaBrasil.jpg?raw=true"
 	}
 ]
